@@ -1,0 +1,19 @@
+{
+  "services": [
+    {
+      "name": "Sights of Iron",
+      "status": "online",
+      "message": "All systems operational"
+    },
+    {
+      "name": "Tactical Frontlines",
+      "status": "maintenance",
+      "message": "Scheduled maintenance in progress"
+    },
+    {
+      "name": "Six Chambers Roulette",
+      "status": "offline",
+      "message": "Server is currently down"
+    }
+  ]
+}
